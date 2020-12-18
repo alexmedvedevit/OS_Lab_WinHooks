@@ -1,0 +1,52 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:winhook.h" caret="181" fromTop="7" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:winhook.cpp" caret="322" fromTop="11" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.h" caret="223" fromTop="5" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="524" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:winhook.h" caret="181" fromTop="7" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="668" fromTop="39" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="386" fromTop="30" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:winhook.cpp" caret="1231" fromTop="24" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:winhook.cpp" caret="708" fromTop="11" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:winhook.cpp" caret="308" fromTop="11" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="386" fromTop="21" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="545" fromTop="35" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="159" fromTop="7" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="545" fromTop="33" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="545" fromTop="30" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="545" fromTop="9" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="76" fromTop="4" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.h" caret="223" fromTop="5" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="545" fromTop="39" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="312" fromTop="10" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="312" fromTop="20" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="312" fromTop="15" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="545" fromTop="32" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="524" fromTop="22" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="444" fromTop="14" />
+      <File id="E6E3B862-E37D-4B99-8031-5AAB9257573B/f:dllhook.cpp" caret="524" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
